@@ -1,6 +1,6 @@
 # <Hello World! /> 👋
 
-Hello, I'm [DML](https://dml-portfolio.me/), a passionate Frontend Developer who loves creating exceptional web experiences.
+Hello, I'm [DML](https://djamelgaidi.me/), a passionate Frontend Developer who loves creating exceptional web experiences.
 
 ## About Me
 
@@ -15,13 +15,13 @@ Here are the technologies I master :
 
 - HTML
 - CSS
-- JavaScript
-- TypeScript
 - SvelteKit
-- Next.JS
+- TailwindCSS
 - Python
 - SQL
 - Git / GitHub
+- Visual Studio Code
+- JetBrains
 
 ## Recent Projects
 
