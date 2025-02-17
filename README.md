@@ -1,42 +1,50 @@
-# <Hello World! /> 👋
+# <Salut tout le monde ! /> 👋  
 
-Hello, I'm [DML](https://djamelgaidi.me/), a passionate Frontend Developer who loves creating exceptional web experiences.
+Bonjour, je suis [DML](https://djamelgaidi.me/), un développeur Frontend passionné qui aime créer des expériences web exceptionnelles.  
 
-## About Me
+## À propos de moi  
 
-- 💻 I enjoy coding and building interactive and responsive websites.
-- 🌐 I specialize in Frontend Development.
-- ⚡️ I constantly stay up to date with the latest trends and technologies in web development.
-- 🎨 I love designing attractive and intuitive user interfaces.
+- 💻 J’aime coder et concevoir des sites web interactifs et responsifs.  
+- 🌐 Je suis spécialisé en développement Full Stack.  
+- ⚡️ Je reste constamment à jour avec les dernières tendances et technologies du web.  
+- 🎨 J’adore concevoir des interfaces utilisateur attrayantes et intuitives.  
 
-## Technologies
+## Technologies  
 
-Here are the technologies I master :
+Voici les technologies que je maîtrise :  
 
-- HTML
-- CSS
-- SvelteKit
+- HTML  
+- CSS  
+- SvelteKit  
 - TailwindCSS
-- Python
+- JavaScript
+- TypeScript
+- C 
+- Python  
 - SQL
-- Git / GitHub
-- Visual Studio Code
+- Git
+
+## Logiciels  
+
+Voici les logiciels que je maîtrise :  
+ 
+- Visual Studio Code  
 - JetBrains
+- Github
 
-## Recent Projects
+## Projets récents  
 
-Here are some recent projects I have contributed to :
+Voici quelques projets récents auxquels j’ai contribué :  
 
-- [DML Website](https://github.com/DMLSurGithub/DML-Website) - A showcase website for displaying my creations | Technologies used: SvelteKit / HTML / CSS / JavaScript / TypeScript
-- [TPLM Website](https://tplm-mgc.fr/) - A showcase website for a fictional project | Technologies used: SvelteKit / HTML / CSS / JavaScript
-- [Geodia Website](https://geodia.vercel.app/) - A showcase website for a fictional project | Technologies used: SvelteKit / HTML / CSS / JavaScript / TypeScript
-- [Discord Invitation](https://github.com/DMLSurGithub/Discord-Invitation) - A code snippet for adding Discord invitation to your websites | Technologies used: HTML / CSS
-- [SecureBits](https://github.com/DMLSurGithub/SecureBits) - My very first showcase website created for a school assignment | Technologies used: HTML / CSS
+- [DML Website V2](https://github.com/ddgaidi/DML-Portfolio-V2) - Un site vitrine pour présenter mes créations
+- [Wizorah Website](https://wizoweb.vercel.app/) - Un site vitrine pour un projet fictif | Technologies utilisées : SvelteKit / TailwindCSS / HTML / CSS / JavaScript / TypeScript  
+- [Discord Invitation](https://github.com/DMLSurGithub/Discord-Invitation) - Un extrait de code pour ajouter une invitation Discord à vos sites web | Technologies utilisées : HTML / CSS  
+- [SecureBits](https://github.com/DMLSurGithub/SecureBits) - Mon tout premier site vitrine créé pour un projet scolaire | Technologies utilisées : HTML / CSS  
 
-## Contact
+## Contact  
 
-If you want to get in touch with me for collaboration or just to say hello, you can find me on :
-- Discord: `dmlsurdsc`
-- Email: djamel.dyne.gaming@gmail.com
+Si vous souhaitez me contacter pour une collaboration ou simplement pour dire bonjour, vous pouvez me retrouver sur :  
+- Discord : `dmlsurdsc`  
+- Email : dml.contactpro@gmail.com  
 
-Let's code and make the web awesome together ! 🚀
+Codons et rendons le web génial ensemble ! 🚀
