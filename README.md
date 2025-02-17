@@ -1,4 +1,4 @@
-# <Salut tout le monde ! /> 👋  
+# <Salut tout le monde ! /> 👋🏼
 
 Bonjour, je suis [DML](https://djamelgaidi.me/), un développeur Frontend passionné qui aime créer des expériences web exceptionnelles.  
 
